@@ -4,6 +4,8 @@ Now translated to English from Russian thanks google !
 
 ###########################################################################################
 
+Note before using this update path vars in build.sh to match your env.
+
 Before the assembly, we do export export TARGET_BUILD_VARIANT = user
 
 And build the kernel: build.sh
